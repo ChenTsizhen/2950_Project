@@ -1,22 +1,4 @@
-﻿Table 4,,,,,,,,,,,,,,,
-Offenses,,,,,,,,,,,,,,,
-Offense Type,,,,,,,,,,,,,,,
-"by Bias Motivation, 2020",,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,"Total
-offenses",Crimes against person,,,,,,Crimes against property,,,,,,,
-Bias motivation,,"Murder and
-nonnegligent
-manslaughter",Rape1,"Aggravated
-assault","Simple
-assault",Intimidation,Other2,Robbery,Burglary,"Larceny-
-theft","Motor
-vehicle
-theft",Arson,"Destruction/
-damage/
-vandalism",Other2,"Crimes
-against
-society2"
+﻿Bias_motivation,Total_offenses,Murder_and_nonnegligent_manslaughter,Rape,Aggravated_assault,Simple_assault,Intimidation,"Human_Trafficking,_Commercial_Sex_Acts",Other_crimes_against_persons,Robbery,Burglary,Larceny_theft,Motor_vehicle_theft,Arson,Destruction_damage_vandalism,Other_crimes_against_properties,Crimes_against_society
 Total,"11,129",22,21,"1,390","2,166","4,119",32,140,132,362,34,67,"2,333",79,232
 Single-Bias Incidents,"10,790",22,21,"1,370","2,131","3,940",32,139,130,356,34,63,"2,243",78,231
 Race/Ethnicity/Ancestry:,"6,677",8,10,976,"1,455","2,296",20,82,69,166,18,36,"1,355",38,148
@@ -60,6 +42,3 @@ Gender Identity:,294,8,1,61,90,60,6,10,3,18,2,0,20,3,12
 Anti-Transgender,237,8,0,57,76,52,2,8,3,9,2,0,13,2,5
 Anti-Gender Non-Conforming,57,0,1,4,14,8,4,2,0,9,0,0,7,1,7
 Multiple-Bias Incidents3,339,0,0,20,35,179,0,1,2,6,0,4,90,1,1
-1 Only the revised Uniform Crime Reporting definition of rape was used for the figures reported in this column. See the downloadable Methodology file for further explanation. ,,,,,,,,,,,,,,,
-2 The figures shown include additional offenses collected in the National Incident-Based Reporting System. See the downloadable Methodology file for further explanation.,,,,,,,,,,,,,,,
-3 A multiple-bias incident is an incident in which one or more offense types are motivated by two or more biases.,,,,,,,,,,,,,,,
