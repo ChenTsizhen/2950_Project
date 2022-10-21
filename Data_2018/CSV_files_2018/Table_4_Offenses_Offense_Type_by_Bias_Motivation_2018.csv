@@ -1,4 +1,4 @@
-Bias_motivation,Total_offenses,Murder_and_nonnegligent_manslaughter,Rape,Aggravated_assault,Simple_assault,Intimidation,Other_crime_against_persons,Robbery,Burglary,Larceny_theft,Motor_vehicle_theft,Arson,Destruction_damage_vandalism,Other_crimes_against_property,Crime_against_societies
+Bias_motivation,Total_offenses,Murder_and_nonnegligent_manslaughter,Rape,Aggravated_assault,Simple_assault,Intimidation,Other_crimes_against_persons,Robbery,Burglary,Larceny_theft,Motor_vehicle_theft,Arson,Destruction_damage_vandalism,Other_crimes_against_properties,Crimes_against_society
 Total,"8,496",24,22,"1,026","1,895","2,560",39,132,131,330,42,43,"1,876",87,289
 Single-Bias Incidents,"8,327",24,22,"1,017","1,882","2,468",39,131,129,325,42,43,"1,830",86,289
 Race/Ethnicity/Ancestry:,"4,954",8,9,659,"1,121","1,627",21,68,76,195,26,16,854,50,224
