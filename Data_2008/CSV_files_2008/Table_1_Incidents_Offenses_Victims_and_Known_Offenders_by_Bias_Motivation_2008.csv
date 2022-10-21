@@ -1,7 +1,4 @@
-﻿Table 1,,,,
-"Incidents, Offenses, Victims, and Known Offenders
-by Bias Motivation, 2008",,,,
-Bias motivation,Incidents,Offenses,Victims1,  Known offenders2
+﻿Bias_motivation,Incidents,Offenses,Victims1,Known_Offenders2
 Total,"7,783","9,168","9,691","6,927"
 Single-Bias Incidents,"7,780","9,160","9,683","6,921"
 Race:,"3,992","4,704","4,934","3,723"
@@ -31,8 +28,3 @@ Disability:,78,85,85,72
 Anti-Physical,22,28,28,26
 Anti-Mental,56,57,57,46
 Multiple-Bias Incidents3,3,8,8,6
-"1The term victim may refer to a person, business, institution, or society as a whole.",,,,
-"2The term known offender does not imply that the identity of the suspect is known, but only that an attribute of the suspect
-  has been identified, which distinguishes him/her from an unknown offender.",,,,
-"3In a multiple-bias incident, two conditions must be met:  (a) more than one offense type must occur in the incident and (b) at
- least two offense types must be motivated by different biases.",,,,

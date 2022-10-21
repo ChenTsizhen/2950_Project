@@ -1,22 +1,4 @@
-﻿Table 4,,,,,,,,,,,,,,,
-Offenses,,,,,,,,,,,,,,,
-Offense Type,,,,,,,,,,,,,,,
-"by Bias Motivation, 2012",,,,,,,,,,,,,,,
-Bias motivation,"Total
-offenses",Crimes against persons,,,,,,Crimes against property,,,,,,,"Crimes
-against
-society1"
-,,"Murder and
-nonnegligent
-manslaughter","Forcible
-rape","Aggravated
-assault","Simple
-assault",Intimidation,Other1,Robbery,Burglary,"Larceny-
-theft","Motor
-vehicle
-theft",Arson,"Destruction/
-damage/
-vandalism",Other1,
+﻿Bias_motivation,Total_offenses,Murder_and_nonnegligent_manslaughter,Forcible_rape,Aggravated_assault,Simple_assault,Intimidation,Other1,Robbery,Burglary,Larceny_theft,Motor_vehicle_theft,Arson,Destruction_damage_vandalism,Other1,Crimes_against_society
 Total,"6,718",10,15,854,"1,570","1,489",30,126,142,258,23,38,"1,906",54,203
 Single-Bias Incidents,"6,705",10,15,853,"1,564","1,487",30,126,141,258,23,37,"1,904",54,203
 Race:,"3,297",1,4,448,754,829,10,50,69,136,13,14,787,25,157
@@ -46,5 +28,3 @@ Disability:,102,0,0,19,33,8,1,1,3,13,1,0,11,6,6
 Anti-Physical,20,0,0,4,9,3,0,0,0,1,1,0,0,1,1
 Anti-Mental,82,0,0,15,24,5,1,1,3,12,0,0,11,5,5
 Multiple-Bias Incidents2,13,0,0,1,6,2,0,0,1,0,0,1,2,0,0
-1 Includes additional offenses collected in the National Incident-Based Reporting System.  See Methodology.,,,,,,,,,,,,,,,
-"2 In a multiple-bias incident, two conditions must be met:  (a) more than one offense type must occur in the incident and (b) at least two offense types must be motivated by different biases.",,,,,,,,,,,,,,,

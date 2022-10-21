@@ -1,11 +1,7 @@
-﻿Table 1 ,,,,
-"Incidents, Offenses, Victims, and Known Offenders",,,,
-"by Bias Motivation, 2015",,,,
-Bias motivation,Incidents,Offenses,Victims1,"Known
-offenders2"
+﻿Bias_motivation,Incidents,Offenses,Victims1,Known_Offenders2
 Total,"5,850","6,885","7,173","5,493"
 Single-Bias Incidents,"5,818","6,837","7,121","5,475"
-Race/Ethnicity/Ancestry:,"3,310","4,029","4,216","3,196"
+Race/Ethnicity/Ancestry,"3,310","4,029","4,216","3,196"
 Anti-White,613,734,789,681
 Anti-Black or African American,"1,745","2,125","2,201","1,605"
 Anti-American Indian or Alaska Native,131,137,141,113
@@ -15,7 +11,7 @@ Anti-Native Hawaiian or Other Pacific Islander,4,6,6,3
 Anti-Arab,37,47,48,35
 Anti-Hispanic or Latino,299,379,392,325
 Anti-Other Race/Ethnicity/Ancestry,257,331,343,243
-Religion:,"1,244","1,354","1,402",809
+Religion,"1,244","1,354","1,402",809
 Anti-Jewish,664,695,731,387
 Anti-Catholic,53,59,60,29
 Anti-Protestant,37,47,48,18
@@ -30,22 +26,19 @@ Anti-Buddhist,1,1,1,1
 Anti-Hindu,5,5,5,2
 Anti-Sikh,6,6,6,4
 Anti-Atheism/Agnosticism/etc.,2,2,2,0
-Sexual Orientation:,"1,053","1,219","1,263","1,221"
+Sexual Orientation,"1,053","1,219","1,263","1,221"
 Anti-Gay (Male),664,758,786,803
 Anti-Lesbian,136,168,170,142
 "Anti-Lesbian, Gay, Bisexual, or Transgender (Mixed Group)",203,235,248,218
 Anti-Heterosexual,19,23,24,19
 Anti-Bisexual,31,35,35,39
-Disability:,74,88,88,73
+Disability,74,88,88,73
 Anti-Physical,43,52,52,40
 Anti-Mental,31,36,36,33
-Gender:,23,29,30,19
+Gender,23,29,30,19
 Anti-Male,7,8,8,6
 Anti-Female,16,21,22,13
-Gender Identity:,114,118,122,157
+Gender Identity,114,118,122,157
 Anti-Transgender,73,75,76,114
 Anti-Gender Non-Conforming,41,43,46,43
 Multiple-Bias Incidents3,32,48,52,18
-"1 The term victim may refer to a person, business, institution, or society as a whole.",,,,
-"2 The term known offender does not imply that the identity of the suspect is known, but only that an attribute of the suspect has been identified, which distinguishes him/her from an unknown offender.",,,,
-3 A multiple-bias incident is an incident in which one or more offense types are motivated by two or more biases.,,,,
