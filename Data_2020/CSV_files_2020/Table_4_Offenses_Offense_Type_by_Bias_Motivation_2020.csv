@@ -1,5 +1,6 @@
 ﻿Bias_motivation,Total_offenses,Murder_and_nonnegligent_manslaughter,Rape,Aggravated_assault,Simple_assault,Intimidation,Other_crimes_against_persons,Robbery,Burglary,Larceny_theft,Motor_vehicle_theft,Arson,Destruction_damage_vandalism,Other_crimes_against_properties,Crimes_against_society
-Total,"10,790",22,21,"1,370","2,131","3,940",32,139,130,356,34,63,"2,243",78,231
+Total,"11,129",22,21,"1,390","2,166","4,119",32,140,132,362,34,67,"2,333",79,232
+Single-Bias Incidents,"10,790",22,21,"1,370","2,131","3,940",32,139,130,356,34,63,"2,243",78,231
 Race/Ethnicity/Ancestry,"6,677",8,10,976,"1,455","2,296",20,82,69,166,18,36,"1,355",38,148
 Anti-White,"1,048",1,7,145,317,231,8,27,17,56,6,3,150,15,65
 Anti-Black or African American,"3,819",5,2,530,660,"1,577",5,23,32,71,6,25,821,8,54
@@ -7,15 +8,23 @@ Anti-American Indian or Alaska Native,103,0,1,5,26,14,3,1,4,10,2,1,22,5,9
 Anti-Asian,330,0,0,47,99,111,0,7,3,4,2,0,52,0,5
 Anti-Native Hawaiian or Other Pacific Islander,15,0,0,2,2,3,0,0,2,0,0,1,2,3,0
 "Anti-Multiple Races, Group",270,2,0,31,41,77,0,1,1,5,0,1,105,3,3
+Anti-Arab,85,0,0,9,24,29,0,0,2,2,0,0,19,0,0
 Anti-Hispanic or Latino,664,0,0,162,215,170,4,18,6,6,0,2,73,2,6
-Anti-Other Race/Ethnicity/Ancestry,428,0,0,54,95,113,0,5,4,14,2,3,130,2,6
+Anti-Other Race/Ethnicity/Ancestry,343,0,0,45,71,84,0,5,2,12,2,3,111,2,6
 Religion,"1,402",1,0,73,151,293,0,7,34,78,8,18,671,25,43
 Anti-Jewish,794,1,0,34,59,209,0,3,11,9,0,1,460,1,6
 Anti-Catholic,77,0,0,5,5,5,0,0,4,8,2,5,33,5,5
 Anti-Protestant,31,0,0,2,6,1,0,1,2,4,1,0,10,2,2
 Anti-Islamic (Muslim),126,0,0,12,32,43,0,1,4,7,0,4,23,0,0
-Anti-Other Religion,322,0,0,18,42,26,0,1,13,42,5,7,125,14,29
+Anti-Other Religion,85,0,0,10,6,10,0,0,2,4,1,3,46,1,2
 "Anti-Multiple Religions, Group",44,0,0,0,6,9,0,1,0,5,0,1,19,2,1
+Anti-Mormon,8,0,0,1,0,1,0,0,1,0,0,0,4,0,1
+Anti-Jehovah's Witness,10,0,0,0,1,0,0,0,1,1,0,0,6,0,1
+"Anti-Eastern Orthodox (Russian, Greek, Other)",43,0,0,1,5,1,0,0,1,8,2,0,9,3,13
+Anti-Other Christian,56,0,0,1,8,6,0,0,1,3,0,4,33,0,0
+Anti-Buddhist,16,0,0,0,2,0,0,0,0,1,0,0,13,0,0
+Anti-Hindu,11,0,0,0,3,1,0,0,1,0,0,0,5,1,0
+Anti-Sikh,93,0,0,5,17,7,0,1,6,25,2,0,9,9,12
 Anti-Atheism/Agnosticism/etc.,8,0,0,2,1,0,0,0,0,3,0,0,1,1,0
 Sexual Orientation,"2,185",5,6,223,370,"1,254",2,34,17,68,2,9,179,4,12
 Anti-Gay (Male),770,5,2,157,252,203,2,28,7,15,1,2,87,3,6
@@ -23,10 +32,10 @@ Anti-Lesbian,"1,021",0,2,17,28,940,0,0,1,6,0,2,24,0,1
 "Anti-Lesbian, Gay, Bisexual, or Transgender (Mixed Group)",363,0,2,45,84,102,0,6,7,45,1,5,63,0,3
 Anti-Heterosexual,12,0,0,0,1,4,0,0,1,1,0,0,3,0,2
 Anti-Bisexual,19,0,0,4,5,5,0,0,1,1,0,0,2,1,0
-Disability,151,0,2,18,41,21,3,5,5,22,4,0,14,6,10
+Disability,151,,2,18,41,21,3,5,5,22,4,0,14,6,10
 Anti-Physical,60,0,0,6,20,8,3,3,2,8,1,0,4,0,5
 Anti-Mental,91,0,2,12,21,13,0,2,3,14,3,0,10,6,5
-Gender,81,0,2,19,24,16,1,1,2,4,0,0,4,2,6
+Gender,81,,2,19,24,16,1,1,2,4,0,0,4,2,6
 Anti-Male,25,0,0,8,6,2,1,0,1,3,0,0,1,0,3
 Anti-Female,56,0,2,11,18,14,0,1,1,1,0,0,3,2,3
 Gender Identity,294,8,1,61,90,60,6,10,3,18,2,0,20,3,12
