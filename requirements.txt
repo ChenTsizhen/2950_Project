@@ -1,0 +1,3 @@
+conda activate info2950
+pip install statsmodels
+'conda install -c conda-forge statsmodels'
