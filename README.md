@@ -1,3 +1,4 @@
 # INFO_2950_final_project
+Hate crime prediction using regression and statistical tests.
 
-This repo is about INFO 2950 final project.
+Final version: phase5.ipynb
